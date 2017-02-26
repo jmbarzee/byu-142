@@ -1,0 +1,14 @@
+Residential 1 5000000 0 129 Avatar Lane
+Residential 0 7334211 0 85 Sparky-Sparky Boom Village
+Residential 0 Banana-Onion Road
+Commercial 0 598776 1 0.23 977 Rough Buddy Blvd
+Commercial 0 2995342 24 Secret Tunnel Turnpike
+Residential 0 955322 1 557 MoMo Run
+Commercial 24668832 0.2 23 Metal Bend
+Commercial 1 77299351 0 0.55 12 Spirit Way
+Residential 1 233342 245 Flameo Circle
+Commercial 1 5133266 0 Badger Mole Court
+Residential 1 25000 Cabbage Drive
+Hotman
+Commercial 0 50090023 0 0.1 354 Jasmine Dragon Run
+Residential 0 2222662 1 101 Circle Bird Drive

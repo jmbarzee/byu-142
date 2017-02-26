@@ -1,0 +1,6 @@
+Residential 0 250000 1 142 CS Blvd
+Commercial 0 1234567 1 0.20 350 Sea Towers
+Residential 1 533000 0 572 Random Road
+Commerical 23343.2 Wrong Way
+ResdeintEvil 1 533000 0 572 Some evil land far far away....
+Commerical 0 1234567 1 0.20 350 Really long name for a comercial property

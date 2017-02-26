@@ -1,0 +1,7 @@
+Residential 0 250000 0 1 142 CS Blvd
+Commercial 0 1234567 100 1 0.20 350 Sea Towers
+Residential 1 533000 50 0 572 Random Road
+Commerical 23343.2 Wrong Way
+ResdeintEvil 1 533000 1000 0 572 Some evil land far far away....
+Commerical 0 1234567 50 1 0.20 350 Really long name for a comercial property that is valid still
+Farm 1 10000 0 Grandpa's Farm

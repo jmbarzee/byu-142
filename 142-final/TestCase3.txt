@@ -1,0 +1,20 @@
+Commerical 23343.2
+Resdeintial 1 533000 80 0 572 Some evil land far far away....
+Commerical 0 1234567 10 1 0.20 350 Really long name for a comercial property
+Residential 1 5000000 40 0 129 Avatar Lane
+Residential 0 7334211 10 0 85 000000000 00 0 0 0 0 This should be a working address... 
+Residential 0 
+Farm
+Farm 1 10000 20 This is an address
+Commercial 0 598776 00 1 0.23 977 Rough Buddy Blvd
+I am broken 0 2995342 50505 24 
+Residential 0 955322 0 1 557 MoMo Run
+Commercial 24668832 O so broken
+Farm 1 1 1 1 viable farm... weird
+Residential 1 233342 245 Flameo Circle
+Commercial 1 5133266 
+Residential 1 25000 Cabbage Drive
+BLABLABLA
+Farm 1 505000 90 Big Farm
+Commercial 0 50090023 40 0 0.1 354 Jasmine Dragon Run
+Residential 0 2222662 40 1 101 Circle Bird Drive

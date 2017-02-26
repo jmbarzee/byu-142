@@ -1,0 +1,23 @@
+Residential 1 5000000 100 0 129 Avatar Lane
+Residential 0 7334211 50 0 85 Sparky-Sparky Boom Village
+Residential 0 BADFILE
+Farm 1 10000 20 Rexburg Freaking Idaho
+Commercial 0 598776 0 1 0.23 977 Rough Buddy Blvd
+Commercial 0 2995342 70 24 Secret Tunnel Turnput
+Residential 0 955322 45 1 557 MoMo Run
+Commercial 24668832 90 0.2 23 poorINPUT
+Commercial 1 99299351 10 0 0.55 12 Spirit Way
+Residential 1 233342 30 0 245 Flameo Circle
+Farm 1 10000 0 Grandpa's Farm
+Farm 1 20000 20 Grandpa's Farm
+Farm 1 30000 40 Grandpa's Farm
+Farm 1 40000 60 Grandpa's Farm
+Farm 1 50000 80 Grandpa's Farm
+Commercial 0 100 1 0.5 Grandpa's money laundering (Jamacian)
+Commercial 1 5133266 200 0 Badger Mole Court
+Residential 1 25000 Cabbage Drive
+Hotman is jamacian something for me to eat?
+Commercial 0 50090023 0 0 0.1 354 Jasmine Dragon Run
+Residential 0 2222662 60000 1 101 Grandpa's Tax Evasion
+Residential 0 5000000000 60 1 Grandpa's house
+Residential 1 500 0 1 My house (rented from Grandpa's Tax Evasion)
